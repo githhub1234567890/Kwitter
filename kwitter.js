@@ -2,7 +2,7 @@ function Verification(){
   Name = document.getElementById("user_name").value;
   password = document.getElementById("password").value;
 
-  if (Name == "Pheonix" && password == "123456"){
+  if (Name == "PheonixAss" && password == "654321"){
       addUser()
 
   }else if (Name == "Trigger" && password == "341353"){
